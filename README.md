@@ -35,3 +35,7 @@ NewsletterTranslator is an innovative tool designed to extract and translate the
 4. **Translation:** The extracted content is translated into the target language using the googletrans library.
 5. **Document Creation (Optional):** If the user opts to save the translated content, a new Word document is created using python-docx and the translated text is added to it.
 6. **Output:** The translated content is printed to the console, and optionally saved to a specified document file path.
+
+## How It works 
+
+https://github.com/KavinduR0713/Newsletter-Translator/assets/105490780/786aa33c-c101-4896-b593-3011d030c01d
